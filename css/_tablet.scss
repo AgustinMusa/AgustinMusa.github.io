@@ -1,0 +1,64 @@
+@media only screen and (min-width: 768px) and (max-width: 995px){
+    header{
+        height: 60px;
+        .bdlogo{
+            width: 30px;
+            margin-left: 65px;
+        }
+    }
+
+    /******************section title******************/
+    .helloworld{
+        h1{
+            font-size: 50px;
+            margin: 29px 80px 0 60px;
+        }
+        p{
+            margin: 16px 210px 0 60px;
+        }
+        a{
+            width: 230px;
+            padding: 16px 59px;
+            margin-left: 60px;
+        }
+    }
+    /*****************section episodes************************/
+    .episodes{
+        h2{
+            margin-left: 60px;
+        }
+    }
+    /***********cellphone**********/
+    .cellcontainer{
+        .title-phone{
+            h2{
+                margin-left: 60px;
+            }
+            p{
+                margin-left: 60px;
+            }
+        }
+    }
+    /**********container-guests***********/
+    .container-guests{
+        h2{
+            margin-left: 60px;
+        }
+        .women{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+    }
+    /************subject******************/
+    .subject{
+        .icons{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+        }
+        h2{
+            margin-left: 60px;
+        }
+    }
+}
