@@ -1,7 +1,7 @@
 @media only screen and (min-width: 996px){
     header{
         height: 80px;
-        .bdlogo{
+        .bd-logo{
             margin-left: 100px;
             width: 36px;
         }
@@ -37,7 +37,7 @@
         }
     }
     /******************section title******************/
-    .helloworld{
+    .hello-world{
         h1{
             font-size: 64px;
             margin: 120px 0 0 200px;
@@ -69,14 +69,14 @@
         h2{
             margin: 150px 1031px 0 200px;
         }
-        .spotycontainer{
+        .spoty-container{
             grid-template-columns: 1fr 1fr;
             gap: 72px;
             margin: 26px 100px 0 100px;
         }
     }
     /***********cellphone**********/
-    .cellcontainer{
+    .cell-container{
             margin-top: 64px;
             flex-direction: row;
         .phoneimg{
