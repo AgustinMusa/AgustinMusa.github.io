@@ -63,11 +63,12 @@
     }
     /*****************section episodes************************/
     .backblue{
-        clip-path: polygon(0 9%, 100% 0%, 100% 91%, 0% 100%)
+        clip-path: polygon(0 12%, 100% 0%, 100% 88%, 0% 100%)
     }
     .episodes{
+        height: 750px;
         h2{
-            margin: 150px 1031px 0 200px;
+            margin: 150px 1031px 50px 200px;
         }
         .spoty-container{
             grid-template-columns: 1fr 1fr;

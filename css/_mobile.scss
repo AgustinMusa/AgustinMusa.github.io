@@ -104,7 +104,7 @@ header{
 .backblue{
     position: absolute;
     width: 100%;
-    height: 1203.5px;
+    height: 980px;
     background: rgb(0,0,255);
     background: linear-gradient(90deg, rgba(0,0,255,1) 0%, rgba(0,0,163,1) 100%);
     clip-path: polygon(0 3%, 100% 0%, 100% 97%, 0% 100%);
@@ -116,7 +116,7 @@ header{
     display: flex;
     flex-direction: column;
     margin-top: 24px;
-    height: 1082px;
+    height: 820px;
     h2{
         margin: 64px 0 0 16px;
         color: white;
@@ -195,7 +195,7 @@ header{
         flex-direction: column;
         align-content: center;
         width: 100%;
-        margin-top: 48px;      
+        margin: 48px 3px 0 3px;      
     .title{
         font-family: 'IBM Plex Sans', sans-serif;
         font-size: 36px;
